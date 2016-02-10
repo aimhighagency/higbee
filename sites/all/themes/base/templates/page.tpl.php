@@ -35,10 +35,11 @@
 				</div>
 				<div class="body">
 					<h2>About Brian Higbee</h2>
-					<p>Brian comes from an eleven year career in Graphic Design. Early on in his career he picked up a camera and started shooting photos for his commissioned graphic design projects. It soon became obvious that photography held far more appeal than graphic design ever did. So he left home and his comfortable career in pursuit of his passion.</p>
-					<p>He started his career assisting some of the top photographers in the world. This experience along with his sense of light and space, and compositional capability has propelled him into a creative force.</p>
-					<p>His talent was quickly recognized by Vogue Korea. Interview Magazine, Universal Records, and Anomaly Ad Agency were quick to follow.</p>
-					<p>Brian Higbee divides his time between New York and Los Angeles.</p>
+					<p>Brian comes from an eleven year career in Graphic Design. Early on in his career he picked up a camera and started shooting photos for his commissioned graphic design projects, skateboarding, snowboarding and bands. It soon became obvious that photography held far more appeal than graphic design ever did. So he left home and his comfortable career in pursuit of his passion.</p>
+
+<p>He started his career assisting some of the top photographers in the world. This experience along with his sense of light and space, and compositional capability has propelled him into a creative force.</p>
+
+<p>His talent has been quickly recognized by Interview Magazine. American Vogue, L'Uomo Vogue, Details Mag and many alike, were quick to follow.</p>
 					
 				</div>
 			</div>
