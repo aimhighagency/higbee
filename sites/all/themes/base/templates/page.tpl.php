@@ -45,11 +45,7 @@
 			</div>
 			<div class="info">
 				<h2>Contact</h2>
-				<h3>SEE Management</h3>
-				<h3>New York</h3>
-				<h3>(212) 255-2500</h3>
-				<a href="mailto:john@seemanagement.com" target="_blank">john@seemanagement.com</a>
-				<a href="www.seemanagement.com" target="_blank">www.seemanagement.com</a>
+			
 				<h2>Syndication</h2>
 				<h3>CPi Syndication</h3>
 				<h3>(212) 500-0990</h3>
