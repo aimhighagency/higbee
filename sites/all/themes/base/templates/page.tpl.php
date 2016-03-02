@@ -53,10 +53,10 @@
 				<h2>Brian Higbee Studio</h2>
 				<a href="studio@brianhigbee.com" target="_blank">studio@brianhigbee.com</a>
 				<div class="social-icons">
-					<a href="" class="icon-instagram" target="_blank"></a>
-					<a href="" class="icon-facebook" target="_blank"></a>
-					<a href="" class="icon-twitter" target="_blank"></a>
-					<a href="" class="icon-youtube" target="_blank"></a>
+					<a href="http://instagram.com/brianhigbee" class="icon-instagram" target="_blank"></a>
+					<!-- <a href="http://facebook.com/brianhigbee" class="icon-facebook" target="_blank"></a> -->
+					<a href="http://twitter.com/brianhigbee" class="icon-twitter" target="_blank"></a>
+					<a href="https://www.youtube.com/brianhigbee" class="icon-youtube" target="_blank"></a>
 				</div>
 			</div>
 		</div>
