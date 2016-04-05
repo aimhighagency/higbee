@@ -45,7 +45,13 @@
 			</div>
 			<div class="info">
 				<h2>Contact</h2>
-			
+				<h2>Management</h2>
+				<h3>COPIOUS</h3>
+				<h3>(323) 939-0200</h3>
+				<a href="www.copiousmanagement.com" target="_blank">www.copiousmanagement.com</a>
+				
+
+
 				<h2>Syndication</h2>
 				<h3>CPi Syndication</h3>
 				<h3>(212) 500-0990</h3>
