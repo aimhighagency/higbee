@@ -53,9 +53,9 @@
 
 
 				<h2>Syndication</h2>
-				<h3>CPi Syndication</h3>
-				<h3>(212) 500-0990</h3>
-				<a href="www.cpi-syndication.com" target="_blank">www.cpi-syndication.com</a>
+				<h3>Art Partner</h3>
+				<h3>(212) 343-9889</h3>
+				<a href="http://licensing.artpartner.com/&nbsp;" target="_blank">www.artpartner.com</a>
 				<h2>Brian Higbee Studio</h2>
 				<a href="studio@brianhigbee.com" target="_blank">studio@brianhigbee.com</a>
 				<div class="social-icons">
