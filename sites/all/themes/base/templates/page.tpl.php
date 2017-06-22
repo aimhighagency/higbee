@@ -44,10 +44,13 @@
 				</div>
 			</div>
 			<div class="info">
-				<h2>Contact</h2>
 				<h2>Management</h2>
 				<h3>COPIOUS</h3>
 				<h3>(323) 939-0200</h3>
+				<h3>Rick Callahan</h3>
+				<a href="mailto:rick@copiousmanagement.com">rick@copiousmanagement.com</a>
+				<h3>Megan Edwards</h3>
+				<a href="mailto:megan@copiousmanagement.com">megan@copiousmanagement.com</a>
 				<a href="www.copiousmanagement.com" target="_blank">www.copiousmanagement.com</a>
 				
 
@@ -56,7 +59,7 @@
 				<h3>Art Partner</h3>
 				<h3>(212) 343-9889</h3>
 				<a href="http://licensing.artpartner.com/&nbsp;" target="_blank">www.artpartner.com</a>
-				<h2>Brian Higbee Studio</h2>
+				<h2>Studio</h2>
 				<a href="studio@brianhigbee.com" target="_blank">studio@brianhigbee.com</a>
 				<div class="social-icons">
 					<a href="http://instagram.com/brianhigbee" class="icon-instagram" target="_blank"></a>
